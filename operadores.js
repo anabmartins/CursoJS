@@ -1,3 +1,4 @@
+// operadores relacionais
 5 > 2 // true
 7 < 4 // false
 8 >= 8 // true
@@ -20,4 +21,14 @@ n1 != n2 // o primeiro número é diferente do segundo?
 && conjunção (e)
 || dijunção (ou) */
 
+var a = 5
+var b = 8 
 
+a > b && b % 2 == 0 // false
+a <= b || b / 2 == 2 // true
+
+// ordem de execução: != - && - || 
+
+idade >= 15 && idade <= 17 // a idade está entre 15 e 17?
+estado == 'RJ' || estado == 'SP' // o estado é RJ ou SP?
+salario > 1500 && sexo != 'M' // o salário é acima de 1500 e não é homem?
