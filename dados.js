@@ -5,7 +5,7 @@
 mais de 1 linha */
 
 var n2 = 8.5 // dizemos que n2 (identificador) recebe 8.5 (atribuição)
-var a2 = null // a2 = vazio
+var a2 = null // null = vazio
 
 /* O identificador pode começar com:
 letra, $ ou _
