@@ -12,7 +12,7 @@ if (hora >= 0 && hora < 12) {
 } else if (hora >= 12 && hora < 18){
     //Boa tarde
     img.src = 'foto_tarde.png'
-    document.body.style.background = '#5C301A'
+    document.body.style.background = '#DD660D'
 } else {
     //bo noite
     img.src = 'foto_noite.png'
