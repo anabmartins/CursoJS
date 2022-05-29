@@ -33,7 +33,7 @@ function verificar(){
                 img.setAttribute('src', 'bebe-f.png')
             } else if (idade < 21){
                 //jovem
-                img.setAttribute('src', 'jovem-f.img')
+                img.setAttribute('src', 'jovem-f.png')
             } else if (idade < 50){
                 //adulto
                 img.setAttribute('src', 'adulto-f.png')
