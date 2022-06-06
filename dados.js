@@ -28,3 +28,10 @@ Number (Infinity, NaN), Boolean, null, undefined, function, String, object (Arra
 */
 var n = 200
 typeof n // 'number'
+
+// são data type 
+number
+string
+NaN
+// não é data type 
+float
